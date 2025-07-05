@@ -1,16 +1,16 @@
 <h1>🎰 NEEDSEO HİZMETLERİ A.Ş'den Kazandıran Liste!</h1>
 
-<h2>🏆 Deneme Bonusu Veren Siteler 2025</h2> 
+<h2>🏆 Deneme Bonusu Veren Siteler 2025</h2>
 
 <!-- 1. SATIR -->
 <table>
   <tr>
-    <th>Kralbet</th>
+    <th>Casibom</th>
     <th>Tarafbet</th>
     <th>Sahabet</th>
   </tr>
   <tr>
-    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://resmim.net/cdn/2025/06/14/T1NfO3.jpg" width="250" /></a></td>
+    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://resmim.net/cdn/2025/07/02/TPU7v3.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/7rWja0JT" target="_blank"><img src="https://resmim.net/cdn/2025/06/17/TiXCEi.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/nrvXgVNa" target="_blank"><img src="https://resmim.net/cdn/2025/06/01/Td5It3.jpg" width="250" /></a></td>
   </tr>
@@ -20,7 +20,7 @@
     <td>1000 TL DENEME BONUSU 🎁</td>
   </tr>
   <tr>
-    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://shortlinkapp.com/casiboms" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF4500?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/7rWja0JT" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800000?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/nrvXgVNa" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
@@ -30,22 +30,22 @@
 <table>
   <tr>
     <th>Starzbet</th>
-    <th>Ramadabet</th>
+    <th>Kralbet</th>
     <th>Onwin</th>
   </tr>
   <tr>
     <td><a href="https://cutt.ly/wrTIy45j" target="_blank"><img src="https://resmim.net/cdn/2025/07/02/TLaBlc.jpg" width="250" /></a></td>
-    <td><a href="https://cutt.ly/ndseormd" target="_blank"><img src="https://resmim.net/cdn/2025/06/23/TOUHrc.jpg" width="250" /></a></td>
+    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://resmim.net/cdn/2025/06/14/T1NfO3.jpg" width="250" /></a></td>
     <td><a href="https://cutt.ly/orbqkTFX" target="_blank"><img src="https://resmim.net/cdn/2025/06/01/Td5BpZ.jpg" width="250" /></a></td>
   </tr>
   <tr>
     <td>750 TL DENEME BONUSU 🎁</td>
-    <td>%100 SLOT BONUSU 🎁</td>
+    <td>2000TL HOŞ GELDİN BONUSU 🎁</td>
     <td>750 TL DENEME BONUSU 🎁</td>
   </tr>
   <tr>
     <td><a href="https://cutt.ly/wrTIy45j" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
-    <td><a href="https://cutt.ly/ndseormd" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-ffffff?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://cutt.ly/KrQnVYMx" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
     <td><a href="https://cutt.ly/orbqkTFX" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800080?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
     <td><a href="https://refpa7480988.top/L?tag=d_4420769m_62079c_&site=4420769&ad=62079" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF6600?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
 </table>
-
+ 
 
 <!-- TELEGRAM VE İLETİŞİM -->
 <h2>📲 Bonus Telegram Kanalı</h2>
